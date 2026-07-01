@@ -1,0 +1,13 @@
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\bin\Debug\Capa_Presentación.exe.config
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\bin\Debug\Capa_Presentación.exe
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\bin\Debug\Capa_Presentación.pdb
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.csproj.AssemblyReference.cache
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.Inicio.resources
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.Login.resources
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.Properties.Resources.resources
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.csproj.GenerateResource.cache
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.csproj.CoreCompileInputs.cache
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Pre.3C51E38A.Up2Date
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.exe
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\Capa_Presentación\obj\Debug\Capa_Presentación.pdb

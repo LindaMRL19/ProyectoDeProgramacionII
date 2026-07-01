@@ -1,0 +1,8 @@
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LixDane\OneDrive\Documentos\Programacion_2_Final_LM\SistemaDeVentas_MoonlightBeauty\CapaNegocio\obj\Debug\CapaNegocio.pdb
